@@ -1,0 +1,2 @@
+bool setupGPS();
+double* readGPS();

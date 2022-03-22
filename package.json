@@ -1,0 +1,23 @@
+{
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "dependencies": {
+        "chartjs": "^0.3.24",
+        "express": "^4.17.3",
+        "graceful-fs": "^4.2.9",
+        "node-addon-api": "^4.3.0",
+        "node-gyp": "^9.0.0",
+        "ws": "^8.5.0"
+    },
+    "name": "greet",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
